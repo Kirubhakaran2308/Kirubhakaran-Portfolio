@@ -495,18 +495,18 @@ form button:hover{
    position: relative;
    display: block;
    height: 100%;
-   width: 80%;
+   width: 75%;
    border-radius: 6px;
    background: #4070f4;
    animation: progress 0.4s ease-in-out forwards;
    opacity: 0;
 }
 .skill-per.java{
-   width: 75%;
+   width: 65%;
    animation-delay: 0.1s;
 }
 .skill-per.css{
-   width: 70%;
+   width: 60%;
    animation-delay: 0.2s;
 }
 .skill-per.javascript{
@@ -514,7 +514,7 @@ form button:hover{
    animation-delay: 0.3s;
 }
 .skill-per.mysql{
-   width: 65%;
+   width: 50%;
    animation-delay: 0.4s;
 }
 @keyframes progress {
